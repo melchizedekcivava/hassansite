@@ -1,0 +1,1 @@
+document.getElementById('one1').innerHTML= '<img src= "../assets/apple.png">';

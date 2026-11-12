@@ -7,8 +7,9 @@
 
 .one {
     width: 30%;
-    background-color: red;
+    background-image: linear-gradient(to right, rgba(190, 105, 105, 0.37), rgba(196, 196, 43, 0.301)),url(../assets/apple.png);
     height: 100%;
+    
 }
 
 
@@ -20,7 +21,6 @@
 
 
 .three {
-    flex: 2;
     background-color: greenyellow;
     hight: 100%;
 }
